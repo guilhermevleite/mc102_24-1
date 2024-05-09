@@ -20,7 +20,7 @@ A entrada contém várias operações. Cada uma consiste em uma linha com o nome
 
 * **`planejar`**: informa os dados de Jairzinho e termina o programa com parâmetros: código do aeroporto de saída e datas do primeiro e do último dias de férias.
 
-*Obs.: Você pode supor que todos os voos ocorrem nos anos de 2024 ou 2025.*
+*Obs.: Você pode supor que todos os voos ocorrem nos anos de 2021 ou 2022.*
 
 ### Exemplo de entrada
 
