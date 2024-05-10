@@ -72,4 +72,10 @@ A saída deve informar toda vez que o valor de um voo foi alterado com a frase `
 
 É obrigatório que você crie *classes* para os **voos** e para as **datas**. Complete o arquivo [passagem.py](./passagem.py), definindo as variáveis e funções necessárias. Por exemplo, um função para dizer se dois A e B voos são possíveis. Lembre-se de testar o código com o arquivo [entrada.in](./entrada.in).
 
+## Como entregar?
+
+Na primeira linha do arquivo passagem.py você deve colocar seu RA para receber a nota, e, entregar o código dentro de um .zip via classroom.
+Por exemplo:
+> 210000.zip
+
 #### Peso: 3
