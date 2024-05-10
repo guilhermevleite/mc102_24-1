@@ -2,6 +2,7 @@
 
 Neste lab você está ajudando a planejar uma viagem e precisa descobrir qual voo é o mais adequado para suas férias. Para isso, utilize *classes* e seu conhecimento acumulado para resolver este problema.
 
+Criamos uma sala especial para dúvidas aqui: [Discord](https://discord.com/channels/1231947819334762527/1238466034642587708)
 ---
 
 Jairzinho sente que no futuro próximo precisará passar um tempo fora do país, mas apesar de 4 anos "juntando" dinheiro, a grana está curta. Por isso, ele deve economizar para sua viagem. Enquanto isso, ele acompanha os valores e planeja sua ~fuga~ férias. O destino não importa, desde que ele consiga voltar na data definida.
