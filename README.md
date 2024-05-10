@@ -56,11 +56,12 @@ CGR
 
 ## Saída
 
-A saída deve conter duas linhas, uma com o código de origem e outra com o código do destino.
+A saída deve informar toda vez que o valor de um voo foi alterado com a frase `X valor alterado de Y para Z`, onde X é o código do voo, Y é o valor anterior e Z é o novo valor. O final da saída deve conter duas linhas, uma com o código de origem e outra com o código do destino.
 
 ### Exemplo de saída
 
 ```
+767 valor alterado de 335.37 para 324.68
 767
 488
 ```
@@ -68,6 +69,6 @@ A saída deve conter duas linhas, uma com o código de origem e outra com o cód
 
 ## Critérios
 
-É obrigatório usar *classes* neste lab, tanto para os **voos** quanto para as **datas**. Complete o arquivo [passagem.py](./passagem.py), definindo as variáveis e funções necessárias. Por exemplo, um função para dizer se dois A e B voos são possíveis. Lembre-se de testar o código com o arquivo [entrada.in](./entrada.in).
+É obrigatório que você crie *classes* para os **voos** e para as **datas**. Complete o arquivo [passagem.py](./passagem.py), definindo as variáveis e funções necessárias. Por exemplo, um função para dizer se dois A e B voos são possíveis. Lembre-se de testar o código com o arquivo [entrada.in](./entrada.in).
 
 #### Peso: 3
