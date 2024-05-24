@@ -191,3 +191,7 @@ Se seu código der erro nesse comando a nota não vai ser computada. Entregue so
 │   ...
 │   caminho.py
 ```
+
+# [IMPORTANTE] Não plagiar!
+
+![plagio](spotted.png)
