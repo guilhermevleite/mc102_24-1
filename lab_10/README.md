@@ -178,6 +178,17 @@ Um caminho na forma de uma sequência de coordenadas de matriz.
 
 Você pode discutir o lab e pedir ajuda no [Discord](https://discord.gg/cWJEU95G6M)
 
+Pontos:
+|Lab|Pontos|
+|---|------|
+|maximo.py|1|
+|busca_binaria.py|1|
+|langton.py|1|
+|quick_sort.py|2|
+|quase_palindromo.py|1|
+|soma_n.py|2|
+|caminho.py|2|
+
 É obrigatório resolver todos os exercícios usando recursão, caso contrário a nota será *0* zero. Os exercícios serão corrigidos de forma automática usando o comando:
 
 `python3 arquivo.py < entrada.in`
@@ -191,6 +202,8 @@ Se seu código der erro nesse comando a nota não vai ser computada. Entregue so
 │   ...
 │   caminho.py
 ```
+
+#### Peso 4
 
 # [IMPORTANTE] Não plagiar!
 
